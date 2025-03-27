@@ -17,4 +17,6 @@ if __name__ == '__main__':
     view = Calculator()
     sys.exit(app.exec_())
 
+
+
     
